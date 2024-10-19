@@ -1,5 +1,5 @@
-body{
-    background-color: bisque;
+ body{ 
+    background-color: azure;
     font-family: Bai Jamjuree;
 }
 
@@ -17,7 +17,7 @@ body{
 
 .cartao__conteudo {
     text-align: center;
-    background-color: aquamarine;
+    background-color: black;
     height: 100%;
 }
 
@@ -37,7 +37,7 @@ body{
 
 
 footer {
-    background-color: black;
+    background-color: white;
     color: white;
     position: fixed;
     bottom: 0;
